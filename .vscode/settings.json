@@ -1,0 +1,22 @@
+{
+  "peacock.color": "#669bbc",
+  "peacock.affectTitleBar": true,
+  "peacock.affectStatusBar": true,
+  "peacock.affectTabActiveBorder": false,
+  "peacock.affectSashHover": false,
+  "peacock.affectPanelBorder": false,
+  "peacock.affectActivityBar": false,
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#15202b99",
+    "sideBar.border": "#89b2cc",
+    "statusBar.background": "#669bbc",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#4982a6",
+    "statusBarItem.remoteBackground": "#669bbc",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#669bbc",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#669bbc99",
+    "titleBar.inactiveForeground": "#15202b99"
+  }
+}
